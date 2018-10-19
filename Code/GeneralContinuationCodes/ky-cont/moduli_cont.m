@@ -31,8 +31,8 @@ dtcont = 2;
 %p = gcp;
 %delete(p)
 %parpool('3x3',3)
-parpool('4x2',4)
-%parpool('local')
+%parpool('4x2',4)
+parpool('local')
 parfor i = 1:I  %%parallel
 %for i = 1:I  %%serial
     i
