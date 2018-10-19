@@ -1,5 +1,9 @@
 ## Overview of core-far field codes for  stripe-forming fronts in quenched Swift-Hohenberg equation,
-As explained in Sec. 6 of _Growing stripes, with and without wrinkles_
+Companion sodes for the article:
+ _Growing stripes, with and without wrinkles_, M. Avery, R. Goh, O. Goodloe, A. Milewski, A. Scheel
+
+Explained in Section 6:
+
 Directory overviews and brief explanations. Finds heteroclinic fronts in the elliptic modulated traveling wave problem:
 c k_x u_y = -( 1+\partial_x^2 + k_y\partial y^2)^2 u + \mu(x) u + c u_x - u^3.
 
